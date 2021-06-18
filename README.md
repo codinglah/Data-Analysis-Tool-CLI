@@ -1,2 +1,2 @@
 # Data-Analysis-Tool-CLI
-The CLI for people who would like to save time from navigating the GUI. However, if you prefer a more user-friendly version, you may like to choose the GUI instead.
+This project is _semi_-abandoned. I might make changes, but for now, it is not stable so **use it at your own risk**.
