@@ -1,0 +1,4 @@
+DATool CLI [Version 1.0.0-a1]
+Type "about", "credits", "help" or "license" for more information.
+
+DATool_CLI>

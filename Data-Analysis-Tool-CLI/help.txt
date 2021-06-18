@@ -1,0 +1,38 @@
+
+about
+=====
+Outputs the project's aim and general information.
+
+credits
+=====
+Lists the contributors of this project.
+
+help
+=====
+Displays the help menu.
+
+license
+=====
+Displays the license governing this software.
+
+quit
+=====
+Exits the program.
+
+mean <file-location> <headers>
+=====
+Calculates the mean of values in the file specified by <file-location>. <headers> must be either "True" or "False"; if True, headers will be considered; if False, headers will not be considered.
+
+median <file-location> <headers>
+=====
+Calculates the median of values in the file specified by <file-location>. <headers> must be either "True" or "False"; if True, headers will be considered; if False, headers will not be considered.
+
+mode <file-location> <headers>
+=====
+Calculates the mode of values in the file specified by <file-location>. <headers> must be either "True" or "False"; if True, headers will be considered; if False, headers will not be considered.
+
+plain <graph-type> <file-location> <headers>
+=====
+Generates a <graph-type> graph for the values in the file specified by <file-location>. Available selections for <graph-type> include "line", "bar", "hist" and "pie". <headers> must be either "True" or "False"; if True, headers will be considered; if False, headers will not be considered.
+
+DATool_CLI>

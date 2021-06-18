@@ -1,0 +1,4 @@
+
+ERROR: Compulsory argument missing
+
+DATool_CLI>

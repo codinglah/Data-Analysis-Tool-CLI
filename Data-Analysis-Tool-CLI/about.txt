@@ -1,0 +1,4 @@
+
+This CLI version of DATool for people who would like to save time from navigating the GUI. However, if you prefer a more user-friendly version, you may like to choose the GUI instead. If you are unsure of what to do, please type "help".
+
+DATool_CLI>
